@@ -1,0 +1,5 @@
+{
+    "iEEGCoordinateSystem": "ScanRAS",
+    "iEEGCoordinateUnits": "m",
+    "IntendedFor": "sub-11/anat/sub-11_T1w.nii.gz"
+}
