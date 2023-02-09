@@ -1,5 +1,5 @@
 {
     "iEEGCoordinateSystem": "ScanRAS",
     "iEEGCoordinateUnits": "m",
-    "IntendedFor": "derivatives/freesurfer-7.3.2/sub-2/mri/T1.mgz"
+    "IntendedFor": "sub-2/anat/sub-2_T1w.nii.gz"
 }
